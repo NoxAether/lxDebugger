@@ -1,1 +1,3 @@
-.deps
+.deps/
+bin/lxDebugger_debug
+bin/lxDebugger_opt
